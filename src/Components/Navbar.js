@@ -16,23 +16,23 @@ return (
                 </button>
                 <div class="collapse navbar-collapse" id="navbarSupportedContent">
                     <ul class='mx-auto'>
-                        <li><a href="index.php" class="active">Home</a></li>
+                        <li><a href="javascript:void(0);" class="active">Home</a></li>
 
                         <li class="dropdown"><a href="#"><span>About</span> <i class="bi bi-chevron-down"></i></a>
                             <ul>
-                                <li><a href="about.php">About Us</a></li>
-                                <li><a href="history.php">History </a></li>
-                                <li><a href="coaches.php"> Our Coaches</a></li>
-                                <li><a href="team.php"> Our Team</a></li>
-                                <li><a href="arbiter.php"> Our Arbiter</a></li>
-                                <li><a href="academy.php">Academy</a></li>
+                                <li><a href="javascript:void(0);">About Us</a></li>
+                                <li><a href="javascript:void(0);">History </a></li>
+                                <li><a href="javascript:void(0);"> Our Coaches</a></li>
+                                <li><a href="javascript:void(0);"> Our Team</a></li>
+                                <li><a href="javascript:void(0);"> Our Arbiter</a></li>
+                                <li><a href="javascript:void(0);">Academy</a></li>
                             </ul>
                         </li>
 
                         <li class="dropdown"><a href="#"><span>Gallery</span> <i class="bi bi-chevron-down"></i></a>
                             <ul>
-                            <li><a href="portfolio.php">Photo Gallery</a></li>
-                            <li><a href="video.php">Video Gallery </a></li>
+                            <li><a href="javascript:void(0);">Photo Gallery</a></li>
+                            <li><a href="javascript:void(0);">Video Gallery </a></li>
                             
                             </ul>
                         </li>
@@ -45,11 +45,11 @@ return (
                             
                                             </ul>
                         </li>
-                        <li><a href="news.php" class="">News</a></li>
+                        <li><a href="javascript:void(0);" class="">News</a></li>
 
-                        <li><a href="registration.php" class="">Registration</a></li>
-                        <li><a href="t_certificate.php" class="">Certificate</a></li>
-                        <li><a href="contact.php" class="">Contact</a></li>
+                        <li><a href="javascript:void(0);" class="">Registration</a></li>
+                        <li><a href="javascript:void(0);" class="">Certificate</a></li>
+                        <li><a href="javascript:void(0);" class="">Contact</a></li>
 
                     </ul>
                     <i class="bi bi-list mobile-nav-toggle"></i>
