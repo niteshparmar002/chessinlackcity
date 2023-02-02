@@ -215,3 +215,38 @@ a:hover {
 .aft-popular-taxonomies-lists ul li a:hover {
   color: #f65823;
 }
+
+/* ------------------------------------------- HOMEPAGE CSS -----------------------------------------*/
+
+.widget-title {
+  line-height: 1.2;
+  margin-bottom: 15px;
+  padding: 0;
+  display: flex;
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+}
+.header-after1 {
+  color: #404040;
+}
+.header-after1, .widget-title {
+  font-size: 22px;
+}
+.widget-title .heading-line-before {
+  background: #bb191a;
+  height: 3px;
+  margin: 0 10px 0 0;
+  flex: 1 0 10px;
+  max-width: 30px;
+  min-width: 30px;
+}
+.widget-title .heading-line-after {
+  background: #eaeaea;
+  background: #000;
+  height: 3px;
+  margin: 0 0 0 10px;
+  flex: 1 0 60px;
+  min-width: 30px;
+  opacity: 0.05;
+}
